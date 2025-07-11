@@ -12,10 +12,10 @@ These are my personal dotfiles, managed using [chezmoi](https://www.chezmoi.io),
 - 🧊 **Hyprpaper** – `~/.config/hyprpaper.conf`
 - 🧾 **Waybar** – `~/.config/waybar/`
 - 🔐 **ZSH / Oh-My-Zsh** – `~/.zshrc`, theme and plugins
-# - 📦 **Wofi** – `~/.config/wofi/`
+- 📦 **Wofi** – `~/.config/wofi/`
 - 🔔 **Hyprnotify** – `~/.config/hyprnotify/`
-# - 🌐 **Brave** – custom flags for Wayland
-# - 🐧 **System configs** – hostname, aliases, tmux, etc.
+- 🌐 **Brave** – custom flags for Wayland
+- 🐧 **System configs** – hostname, aliases, tmux, etc.
 
 ---
 
